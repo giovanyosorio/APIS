@@ -1,3 +1,4 @@
+// ejemplo de fetch post
 const API= "https://api.escuelajs.co/api/v1/products"
 
 function postData(url,data){
